@@ -1,0 +1,5 @@
+# IDE/editor specific
+# (technically these should be in each user's $GIT_DIR/info/exclude)
+
+.vscode/
+*.sublime-*
